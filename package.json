@@ -5,7 +5,7 @@
   "dependencies": {
     "react-overlays": "0.8.2",
     "react-onclickoutside": "6.6.0",
-    "react-dom": "16.0.0",
+    "react-dom": "16.11.0",
     "react": "16.0.0",
     "moment": "2.19.1"
   },
